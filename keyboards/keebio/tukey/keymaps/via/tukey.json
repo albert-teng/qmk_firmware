@@ -1,0 +1,16 @@
+{
+    "name": "Tukey",
+    "vendorId": "0xCB10",
+    "productId": "0x1112",
+    "lighting": "none",
+    "matrix": {
+        "rows": 1,
+        "cols": 2
+    },
+    "layouts": {
+        "keymap": [ [
+            "0,0",
+            "0,1"
+        ] ]
+    }
+}
